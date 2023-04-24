@@ -1,0 +1,41 @@
+    .head_design{
+                
+                background-color: rgb(179, 213, 213);
+                color:blue;
+                text-align: center;
+                padding: 4%;
+                font-weight: 200px;
+                border:3px solid gray;
+              
+                }
+    .login_design{
+                     margin-left: 1000px;
+                     font-size:20px;
+                }
+    .login_design:hover{
+              color:yellow
+             
+                   }
+   .body_design{
+                /* margin-left: 2%; */
+                color:brown;
+                height:330px;
+                line-height: 30px;
+                font-size:20px;
+                }
+   .foot_design{
+                
+               background-color: rgb(200, 244, 229);
+                color:blue;
+                padding: 60px;
+                border:3px solid gray;
+                font-weight: bolder;
+                font-size:20px;
+               }
+    .foot_content{
+              margin-left: 600px;
+              
+                 }
+     .foot_content:hover{
+                color:rgb(157, 143, 143)
+                       }

@@ -1,0 +1,33 @@
+.header_design{
+       background-color: rgb(159, 229, 248);
+       text-align: center;
+    
+}
+
+.title_design{
+       color:rgb(116, 4, 4);
+       font-weight: 500;
+       font-size:40px;
+       margin-left: 40%;
+       background-color: rgb(159, 229, 248);
+          }
+.footer_design{
+       background-color: rgb(106, 199, 250);
+       margin-top:20%;
+       padding:3%;
+       font-size:25px;
+       text-align: center;
+       }
+
+
+.link_design{
+       background-color: rgb(106, 199, 250);
+       margin-top: 50px;
+       margin-left:2px;
+        font-size:20px;
+       /* color:blue; */
+       
+       }
+.about_design{
+margin-left:10%;
+       }

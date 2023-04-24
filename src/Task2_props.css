@@ -1,0 +1,18 @@
+.props_styling{
+                color:rgb(199, 123, 23);
+                margin-left:50px;
+             
+                margin-top:20px;
+}
+ .children_styling{
+    margin-left: 50px; 
+    margin-top:20px;
+    color:green              
+  }
+  .whole_content{
+                border: 3px solid greenyellow;
+                margin :240px;
+                margin-top:120px;
+                padding:10px;
+                height:400px;
+  }

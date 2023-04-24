@@ -1,0 +1,36 @@
+.content_design1{
+                font-size:22px;
+                margin-top:20px;
+                margin-left: 50px;
+}
+.content_design2{
+                font-size:22px;
+              margin-top:20px;
+              margin-left: 30px;
+            }
+*{
+                background-color: aliceblue;
+}
+.title{
+                background-color: rgb(185, 221, 251);
+                padding:20px;
+                border:2px solid yellow;
+                text-align: center;
+}
+.button_design1{
+                background-color: beige;
+}
+
+.button_design2{
+            background-color: rgb(247, 221, 187);
+}
+.toggle_design{
+                width:260px;
+                border-radius: 10px;
+                padding:10px;
+}
+.display_style{
+ color: blue;
+ margin-left: 20%;
+ margin-top: 10%;
+}
